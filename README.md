@@ -37,23 +37,6 @@ project/
 
 2. Preencha as variáveis de ambiente no arquivo `.env` com as informações apropriadas.
 
-```properties
-# Nome do banco de dados
-DATABASE='your_database_name'
-
-# Host do banco de dados
-HOST='your_database_host'
-
-# Usuário do servidor de banco de dados
-USERSERVER='your_database_user'
-
-# Senha do servidor de banco de dados
-PASSWORD='your_database_password'
-
-# Porta do banco de dados
-PORT='your_database_port'
-```
-
 ## Instalação
 
 1. Crie e ative um ambiente virtual:
